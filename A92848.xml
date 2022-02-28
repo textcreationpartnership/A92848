@@ -1,0 +1,485 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The best and the worst magistrate: or, The people's happiness and unhappiness, laid open in a sermon preached at the late election of the Lord Major for the famous City of London, Sept. 29. 1648. / By Obadiah Sedgwick B. in D. and minister at Covent-Garden.</title>
+            <author>Sedgwick, Obadiah, 1600?-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92848</idno>
+            <idno type="STC">Wing S2365</idno>
+            <idno type="STC">Thomason E465_8</idno>
+            <idno type="STC">ESTC R205183</idno>
+            <idno type="EEBO-CITATION">99864615</idno>
+            <idno type="PROQUEST">99864615</idno>
+            <idno type="VID">162270</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92848)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162270)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E465[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The best and the worst magistrate: or, The people's happiness and unhappiness, laid open in a sermon preached at the late election of the Lord Major for the famous City of London, Sept. 29. 1648. / By Obadiah Sedgwick B. in D. and minister at Covent-Garden.</title>
+                  <author>Sedgwick, Obadiah, 1600?-1658.</author>
+                  <author>Chambers, Humphrey, 1598 or 9-1662.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Peter Cole, at the signe of the Printing-Press in Cornhil, near the Royal Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:162270:1" rendition="simple:additions"/>
+The Beſt and the Worſt MAGISTRATE: OR, The People's Happineſs and Unhappineſs, <hi>Laid open in a</hi> SERMON Preached at The late Election of the Lord Major FOR The famous City of <hi>London,</hi> Sept. 29. 1648.</p>
+            <p>BY <hi>Obadiah Sedgwick</hi> B. in D. and Mini<g ref="char:EOLhyphen"/>ſter at COVENT-GARDEN.</p>
+            <q>
+               <bibl>JOB 29. 14.</bibl> 
+               <hi>I put on Righteouſneſs, and it clothed me; my judge<g ref="char:EOLhyphen"/>ment was as a Robe and a Diadem.</hi>
+            </q>
+            <q>
+               <bibl>JOB 29. 15.</bibl> 
+               <hi>I was eyes to the blinde, and feet was I to the lame.</hi>
+            </q>
+            <q>
+               <bibl>JOB 29. 16.</bibl> 
+               <hi>I was a father to the poor; and the cauſe which I knew not, I ſearched out.</hi>
+            </q>
+            <q>
+               <bibl>JOB 29. 17.</bibl> 
+               <hi>I brake the jaws of the wicked, and plucked the ſpoil out of his teeth.</hi>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>Peter Cole,</hi> at the ſign of the Printing-Preſs in <hi>Cornhil,</hi> near the Royal Exchange. 1648.</p>
+            <pb facs="tcp:162270:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:162270:2"/>
+            <head>
+               <hi>To the Right Honorable,</hi> John Warner, <hi>Lord Major of the City of</hi> London, Abraham Reynardſon <hi>Lord Major Elect; AND To the Right Worſhipful, the Aldermen and Sheriffs of the ſame City.</hi>
+            </head>
+            <opener>
+               <salute>My Lord,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T was your pleaſure to put the Service of Preaching at this Election upon me; and it is your common deſire to have that brought to your eyes, which lately was preſented to your ears: Aſſuredly, I neither value my ſelf nor this Sermon at that rate, as to make it thus publike; what is now done, is onely to expreſs my due reſpects unto your ſtrong commands, for ſuch <hi>I</hi> do interpret your deſires of Printing this Sermon to be: It is now no longer mine, but yours; For you I ſtudied it, to you and the City I Preached it, at your requeſt I publiſh it, and to all of you I humbly offer it; and be you pleaſed to remember, that <hi>Verba Dei ſunt vivenda.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:162270:3"/>
+I have little elſe to ſay unto you in way of Epiſtle, onely this, You are a City upon a Hill, the whole Kingdom looks upon you, and are apt to move as your Orb moves, all Publique Places and Perſons are exemplary: You have been famous for your Piety, for your Charity, for your Fidelity, for your Vnity; Give me favor to apply unto you thoſe words which Chriſt delivered unto the Church of <hi>Thyatira, I will put upon you no other burthen, but that which you have already, hold faſt;</hi> Per<g ref="char:EOLhyphen"/>ſeverance in well doing, is one ſtep further in the path of Duty, and the very next ſtep to Glory; continue therefore in the love of God, in the obedi<g ref="char:EOLhyphen"/>ence of his Truth, in zeal for his Glory, in regard to his Servants, in Peace amongst your ſelves, and in one Vnited Heart for the Publique good; This will be your Honor in life, your Comfort in death, your Crown for ever: For this above all, you ſhall have the choyceſt of his deſires unto the Father of mercies, who is,</p>
+            <closer>
+               <signed>Your Servant in Christ, <hi>OBADIAH SEDGWICK.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:162270:3"/>
+            <head>The Beſt and the Worſt MAGISTRATE: OR, The Peoples Happineſs and Unhappineſs, <hi>Laid open in a</hi> SERMON UPON Prov. 29. 2. <hi>When the righteous are in authority, the people re<g ref="char:EOLhyphen"/>joyce: but when the wicked beareth rule, the people mourn.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou are met this day (Right Honorable, Right Worſhipful, and Beloved) about a very ſo<g ref="char:EOLhyphen"/>lemn work, The choyce of a Magiſtrate, of a chief Magiſtrate for a City, for the chief City of this Kingdom; and the more weighty that this buſineſs is, the more commendable is your cuſtom, that you firſt begin with God, from whom alone all Wiſdom and Bleſſing flows.</p>
+            <p>There are three things for which God ſhould be earneſtly ſought; one is, <hi>A good Chriſt:</hi> The ſecond is, <hi>A good Con<g ref="char:EOLhyphen"/>ſcience:</hi> And the third is, <hi>A good Magiſtrate.</hi> For Magi<g ref="char:EOLhyphen"/>giſtrates are like the Prophets figs, <hi>Thoſe that were good, were</hi> 
+               <note place="margin">Ier 24. 3.</note> 
+               <hi>very good;</hi> and, <hi>thoſe that were bad, were very bad;</hi> or (as <hi>P. Martyr</hi> obſerves) they are like the Angels: Good Magiſtrates are like the good Angels, which are ſent forth to miniſter for help and comfort; and wicked Magiſtrates are like the evil
+<pb n="2" facs="tcp:162270:4"/>
+Angels, which go forth to moleſt and hurt. If Magiſtrates be good, they are a publike Bleſſing, and if they be bad, they are a publike Plague; they are the Summer or the Winter, either as Heaven or as Hell unto a people: Heaven is a place of joy and gladneſs, and Hell is the place of torment and weeping. And thus is it with a people, as the Magiſtrate is who is over a people, <hi>When the righteous are in authority, the people re<g ref="char:EOLhyphen"/>joyce; but when the wicked beareth rule, the people mourn.</hi>
+            </p>
+            <p>In theſe words you may behold (as in a glaſs) two different <note place="margin">The divi<g ref="char:EOLhyphen"/>ſion of the Text.</note> faces of people: 1. The face of joy and gladneſs <hi>(The people rejoyce.)</hi> 2. The face of ſadneſs and grief <hi>(The people mourn.)</hi> And both theſe are preſented with their different cauſes; The cauſe of the peoples joy, is the goodneſs of their Rulers <hi>[When the righteous are in authority, the people rejoyce;]</hi> And the cauſe of the peoples ſorrow, is the wickedneſs of their Rulers <hi>[But when the wicked beareth rule, the people mourn.]</hi>
+            </p>
+            <p>Although Authority be (formally and intrinſecally) the ſame, and varies not, as to its eſſential conſideration; yet cir<g ref="char:EOLhyphen"/>cumſtantially conſidered as in the hands of good or evil men, and is by them differently managed, it doth now produce different effects or paſſions in a people. It is not with poli<g ref="char:EOLhyphen"/>tical Authority as it is with renewing Grace, where the ſub<g ref="char:EOLhyphen"/>ject is changed, and acts according to the nature and power of that Divine Principle, making a perſon good, and diſpoſing him unto good: No, Political Authority doth not work thus; It doth not work <hi>Admodum Principii</hi> or <hi>Agentis,</hi> but onely <hi>Ad modum Subjecti</hi> or <hi>Recipientis;</hi> juſt as the ſame Pen writes fair or blots, as his skill or rudeneſs is who uſeth it; or as an Inſtrument ſounds pleaſantly or harſhly, as the hand is which fingers it, or as a Sword defends or wounds, as the man is who employeth it. Hence it is that the condition of inferior people comes to be ſo often changed &amp; altered; ſometimes it goes well with them, ſometimes it goes ill with them; one while they re<g ref="char:EOLhyphen"/>joyce, another while they mourn: of which variety, although there may be internal Reaſons in the people themſelves, yet many times the cauſes are external, and (in particular) do owe themſelves to the goodneſs or wickedneſs of Magiſtrates,
+<pb n="3" facs="tcp:162270:4"/>
+as a mans health or ſickneſs do owe themſelves to the change of Air, or as the Childes condition doth to the change of his Nurſe.</p>
+            <p>I ſhall not (at this time) trouble you with a Diſcourſe of Authority or Government, either for the nature and kindes of it, or for the order and degrees in it: Neither ſhall I trouble you with that Diſpute about the lawfulneſs of a Chriſtian to be a Magiſtrate; the Text preſumes it as a great Bleſſing when the righteous are in Authority: Nor will I loſe any time in handling thoſe Viciſſitudes and Changes, whereof both the Governors and governed in a Civil State are capable; All that I intend ſhall have reference unto your preſent occaſion, and I will preſent the ſumme of it in theſe two Propoſitions:</p>
+            <list>
+               <item>1. <hi>That much of a Peoples joy and happineſs lies in a righteous</hi> 
+                  <note place="margin">Two Pro<g ref="char:EOLhyphen"/>poſitions from the Text.</note> 
+                  <hi>Ruler or Magiſtrate.</hi>
+               </item>
+               <item>2. <hi>That much of a Peoples miſery and ſorrow lies in a wicked or unrighteous Ruler.</hi>
+               </item>
+            </list>
+            <p>I begin with the firſt of theſe, <hi>viz. That much of a Peoples</hi> 
+               <note place="margin">1. <hi>D.</hi>
+               </note> 
+               <hi>joy and happineſs lies in a righteous Ruler or Magiſtrate;</hi> or take it thus, That it is a great Bleſſing to a people when righ<g ref="char:EOLhyphen"/>teous men are in Authority: <hi>[When the righteous are in autho<g ref="char:EOLhyphen"/>rity, the people rejoyce.]</hi>
+            </p>
+            <p>Take Authority in all the ſphaeres of it, either in the high<g ref="char:EOLhyphen"/>eſt, <note place="margin">1. True in all ſorts of men being in Autho<g ref="char:EOLhyphen"/>rity.</note> as is that of Kings; or in the midſt, as is that of ſubordi<g ref="char:EOLhyphen"/>nate Magiſtrates; or in the loweſt, as is that of Maſters in Fa<g ref="char:EOLhyphen"/>milies, It holds true of all of them, if they be righteous (when inveſted with Authority) they are a Bleſſing unto thoſe who are under them. If Kings be righteous, they are to their peo<g ref="char:EOLhyphen"/>ple, like the Sun to the world: If ſubordinate Magiſtrates be righteous, they are to the City as the Clouds to the Earth: If Maſters be righteous, they are to the Family as the Spring is to the Garden: <hi>David, Jehoſhaphat, Hezekiah, Joſiab,</hi> were righteous Kings; What a joy and bleſſing were they to the people? <hi>Joſeph, Daniel, Mordecai,</hi> and thoſe Magiſtrates which ſome of the good Kings ſet up, what a publique good were they to the Places and Provinces over which they were ſet? And for Maſters of Families that have been righteous,
+<pb n="4" facs="tcp:162270:5"/>
+how great bleſſings have they been? <hi>Abraham,</hi> God ſaith of him, <hi>I know him, that he will command his children and houſhold</hi> 
+               <note place="margin">G<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n. 18. 19</note> 
+               <hi>after him, and they ſhall keep the way of the Lord;</hi> and <hi>Joſhua, But as for me and my houſe, we will ſerve the Lord:</hi> What a <note place="margin">Ioſh. 24 15</note> bleſſing are they who are a means to bring the God of all bleſſings? Righteous men are ſuch who count no bleſſing ſufficient for themſelves or theirs, but God himſelf.</p>
+            <p>Again, I deſire you to remember, That there is a twofold <note place="margin">2. True in two ſorts of Righte<g ref="char:EOLhyphen"/>ouſneſs.</note> Righteouſneſs: 1. One is Political or Civil, which conſiſts in the due adminiſtration of Juſtice and Judgement. 2. Another is Spiritual and Heavenly, which conſiſts in a renewed Con<g ref="char:EOLhyphen"/>formity of mans heart and life to the revealed will of God.</p>
+            <p>If Magiſtrates be Politically righteous, ſo that in the times of their Government, <hi>Judgement runs down as waters, and Righteouſneſs as a mighty ſtream,</hi> as the Prophet <hi>Amos</hi> ex<g ref="char:EOLhyphen"/>preſſeth <note place="margin">Amos 5. 24</note> it; <hi>If they relieve the oppreſſed, judge for the fatherleſs, plead for the widow,</hi> as the Prophet <hi>Iſaiah</hi> delivers it, Even <note place="margin">Iſa. 1. 17.</note> under this conſideration alone they are a joy and bleſſing to a people: It is a great bleſſing in a Common-wealth, To enjoy our poſſeſſions, to poſſeſs our labors, to go out with ſafety, to come home with peace, to be kept from wrong, and to be righted with Juſtice.</p>
+            <p>But if Magiſtrates be (alſo) Spiritually righteous, if they be ſuch as rightly know God, truly fear God, cordially love God, zealouſly act for God; if the Law of Righteouſneſs be written in their hearts, theſe men are bleſſings indeed, and a joy indeed, though not in the opinion of wicked people, yet in the opinion of God, and all his people. And this I ſhall demonſtrate unto you by four particulars:</p>
+            <list>
+               <item>1. By the Metaphors, under which they are ſhadowed. <note place="margin">Four De<g ref="char:EOLhyphen"/>monſtrati<g ref="char:EOLhyphen"/>ens of it.</note>
+               </item>
+               <item>2. By the Titles, with which they are deſcribed.</item>
+               <item>3. By the Abilities, with which they are furniſhed.</item>
+               <item>4. By the Services, in which they are engaged.</item>
+            </list>
+            <p>Firſt, By the Metaphors under which righteous and good Magiſtrates are ſet forth (in Scripture) as publique Bleſſings, and ſpecial cauſes of joy unto a people: If you pleaſe to caſt <note place="margin">Iudg. 9. 9, to 14.</note> an eye upon <hi>Jothams</hi> Parable (in <hi>Judg.</hi> 9. <hi>ver.</hi> 9. to 14.) you
+<pb n="5" facs="tcp:162270:5"/>
+may finde good Magiſtrates or Rulers compared <hi>To the Olive<g ref="char:EOLhyphen"/>tree, to the Fig-tree, and to the Vine-tree:</hi> Now there are three things, obſerveable in all theſe Trees;</p>
+            <p n="1">1. Every one of them is fruitful: The Olive-tree is <hi>Baccifera,</hi> and the Figtree is <hi>Pomifera,</hi> and the Vine-tree is <hi>
+                  <g ref="char:V">Ʋ</g>vifera;</hi> not one of them is barren, but fruitful, very fruitful.</p>
+            <p n="2">2. The fruit of every one of them is very good, all for com<g ref="char:EOLhyphen"/>mon good; not one of them but is ſo rich, as to ſet up and maintain a publique Calling: How many of you are enriched and maintained every year, ſome by the Olive-tree, others by the Fig-tree, and others by the Vine-tree? Almoſt all the Kingdoms on Earth fare the better for theſe three trees.</p>
+            <p n="3">3. There is a diſtinct and ſpecial vertue in the ſeveral fruits which grow upon theſe ſeveral trees: The Oyl is of an heal<g ref="char:EOLhyphen"/>ing <note place="margin">Luk. 10. 34</note> and ſtrengthening vertue; The Wine is of a cleanſing and <note place="margin">Pſal. 104. 15. 1 Sam. 30. 12.</note> quickning vertue; The Figs are of a pleaſing and nouriſhing vertue: And all this is a righteous Ruler to a people, He is fruitful, and fruitful for their good; To evil men he is as ſearching and cleanſing Wine; To good men he is as ſweet and nouriſhing Figs; To all men he is as healing and ſtrength<g ref="char:EOLhyphen"/>ning Oyl: God and man are the better by him.</p>
+            <p>Secondly, By the Titles (in Scripture) aſcribed unto reli<g ref="char:EOLhyphen"/>gious or righteous Rulers, which alſo ſhew them to be a bleſ<g ref="char:EOLhyphen"/>ſing and comfort unto the people. They are called</p>
+            <p n="1">1. <hi>Shields: The ſhields of the earth belong to God,</hi> ſaith <hi>Da<g ref="char:EOLhyphen"/>vid;</hi> 
+               <note place="margin">Pſal. 47. 9.</note> thoſe whom he calls <hi>Shields,</hi> are the very ſame whom he calls <hi>Princes,</hi> or <hi>Rulers:</hi> A ſhield is to cover the body, and it is to defend the body againſt the injuries of Darts which are thrown at a diſtance, and of Spears, which are near at hand to wound; and with theſe ſhields anciently thoſe Commanders and Soldiers ſtood guarded, who were in the Front, ready to receive the firſt and ſtrongeſt Charge from the Enemy: Of this uſe is a righteous Magiſtrate, in covering and protecting the people from wrongs and injuries; <hi>He ſhall deliver the poor and needy, and him that hath no helper,</hi> Pſal. 72. 12. A righte<g ref="char:EOLhyphen"/>ous <note place="margin">Pſa. 72. 12.</note> Magiſtrate is the poor mans Harbor, the innocent mans Succor, and the unjuſt mans Terror.</p>
+            <p n="2">
+               <pb n="6" facs="tcp:162270:6"/>
+2. <hi>Shepherds;</hi> ſo the principal men are ſtiled, <hi>Micah</hi> 5. 5. Now <note place="margin">Luke 2. 8. 1 Sam. 17. 35. Ezek. 34. 2. Iſa. 40. 11. Ioh 10. 11.</note> a ſhepherd <hi>Watches his flock, Reſcues his ſheep, Guides them, Feeds them, Gently leads them, and many times carries the lambs in his boſom, and will give his life for the ſheep;</hi> All this is a righteous Magiſtrate unto a people, He watches for their good, Appears for their good, Conſults for their good, Provides for their good; He hath the ſhepherds Arms for the weak, the ſhepherds Rod for the wicked, the ſhepherds Staff for the di<g ref="char:EOLhyphen"/>ſtreſſed, the ſhepherds Fold for all.</p>
+            <p n="3">3. <hi>Heads: Moſes choſe able men out of all Iſrael, and made</hi> 
+               <note place="margin">Exod. 18. 25.</note> 
+               <hi>them Heads over the people, Rulers of thouſands, and Rulers of hundreds:</hi> And the Head, as it is moſt eminent for place, ſo it moſt excellent for uſe; It is the ſeat of thoſe ſingular gifts of Underſtanding, Wiſdom, Judgement, Counſel; it is the foun<g ref="char:EOLhyphen"/>tain of all Senſe and Motion: The Head is the Bodies Over<g ref="char:EOLhyphen"/>ſeer, Watchman, Counſellor, Helper, all the body is the better for its influences: Of what benefit the Head is to the Natural Body, of the ſame is a righteous Magiſtrate to a Political Body, ſtudying, foreſeeing, forecaſting, counſelling, ordering all for their good.</p>
+            <p n="4">4. <hi>Pilets:</hi> I think the Prophet hath an aym at this, in <hi>Ezek.</hi> 27. 29. <hi>All the Pilots of the Sea ſhall come down from their</hi> 
+               <note place="margin">Eezk. 27. 29.</note> 
+               <hi>ſhips:</hi> The Contingencies in this world are a Sea, The people who are expoſed unto them are the Ship, and the Magiſtrate is the Pilot who ſits at the Stern: The Pilot hath the life and death of all the Paſſengers in his hand; If he ſteers amiſs, the Ship ſplits; if he obſerves his compaſs aright, they are pre<g ref="char:EOLhyphen"/>ſerved; if he be ignorant, all miſcarry in the ſtorm; if he be diſcreet and vigilant, the Ship bears up, and ſails through waves and tempeſts: Of ſuch a common ſafety is a righteous Magi<g ref="char:EOLhyphen"/>ſtrate, He is your Bleſſing in proſperous times, and your Security in dangerous times.</p>
+            <p n="5">5. <hi>Phyſicians:</hi> He who is called <hi>A Ruler, Iſa.</hi> 3. 6. is called <hi>An</hi> 
+               <note place="margin">Iſa. 3. 6, 7. <hi>Galen.</hi>
+               </note> 
+               <hi>Healer, Iſa.</hi> 3. 7. A good Magiſtrate is a good Phyſician: One reports, That anciently Emperors Palaces were ſick mens Hoſpi<g ref="char:EOLhyphen"/>tals: A righteous Magiſtrate will cure as many Diſeaſes in the lives of men, as the Phyſician can in the bodies of men; He
+<pb n="7" facs="tcp:162270:6"/>
+can cure Idle people of the Lazies, and Drunken people of the Dropſie, and Murmuring people of the Sullens, and Mad peo<g ref="char:EOLhyphen"/>ple of their Rage againſt Godlineſs, and Proud people of the Fever, and Tumultuous people of the Ague; His Courts, his Priſons, his Stocks, his Poſts, his Sword, are notable Phyſick for notorious Sinners: And beſides this, he hath admirable Cor<g ref="char:EOLhyphen"/>dials, Reſtoratives, Preſervatives in his Favors, Rewards, En<g ref="char:EOLhyphen"/>couragements to hearten and ſtrengthen honeſt perſons. Surely a good Phyſician is a common Bleſſing.</p>
+            <p>What need I to adde any more of their Titles? They are alſo called <hi>Builders, Repairers, Fathers, Nurſing fathers,</hi> nay <note place="margin">Iſa. 58. 12. &amp; 49. 23. Neh 9. 27. Pſal. 82. 6.</note> 
+               <hi>Saviors,</hi> nay <hi>Gods:</hi> Look of what uſe the Builder or Repairer is to an houſe, of what help a Father is to Children, of what tenderneſs a Nurſing father is to the little Infant, of what joy a Savior is to oppreſſed Captives, of what good and bleſſing God is to the world, of the ſame (in a proportion, and under God) are righteous Magiſtrates unto a people.</p>
+            <p>I cannot yet fall off from this, without one ſpecial Obſer<g ref="char:EOLhyphen"/>vation, and that is this, All theſe Titles do aſſure us, That righ<g ref="char:EOLhyphen"/>teous Rulers are a ſingular good to all ſorts of men, in all con<g ref="char:EOLhyphen"/>ditions, in all places, and at all times: If Wars break out, they are a Shield; if Peace falls in, they are a Shepherd; in Straits, they are a Head; in Tumults, they are a Pilot; for Exorbitan<g ref="char:EOLhyphen"/>cies, they are a Phyſician; for Wants, they are a Father; from Oppreſſions, they are a Savior; and under all Diſcomforts, they are as Gods.</p>
+            <p>Thirdly, By the Abilities with which they are furniſhed: There are particular qualities which are proper to men in Au<g ref="char:EOLhyphen"/>thority, and do fit them and enable them for the publique good and joy of a people; I will mention onely five of them, <note place="margin">Five Cha<g ref="char:EOLhyphen"/>racters of fit Magi<g ref="char:EOLhyphen"/>ſtrates.</note> and every one of them is to be found in thoſe that are righ<g ref="char:EOLhyphen"/>teous.</p>
+            <p n="1">1. Rulers or Magiſtrates muſt be men fearing God: <hi>Thou ſhalt provide out of all the people able men, ſuch as fear God,</hi> 
+               <note place="margin">Exo. 18. 21.</note> ſaid <hi>Jethro</hi> to <hi>Moſes;</hi> He who fears God, he onely is fit to rule men: That Judge who ſaid, <hi>I fear not God,</hi> ſaid immedi<g ref="char:EOLhyphen"/>ately, <note place="margin">Luk. 18. 4.</note> 
+               <hi>I regard not man.</hi> Now take the fear of God</p>
+            <p>
+               <pb n="8" facs="tcp:162270:7"/>
+               <q>Either Comprehenſively, as it contains in it the whole Worſhip and Service of God (The fear of God is an abridge<g ref="char:EOLhyphen"/>ment <note place="margin">Eccleſ. 12. 13.</note> of all Religion:) Thus the righteous perſons are the onely perſons who fear God; no men are truly religious, but ſuch who are ſincerely righteous.</q>
+            </p>
+            <p>
+               <q>Or Diſtinctly, as it is a peculiar Grace, ſetting a perſon always in the preſence of God, and affecting of him with an holy and reverential awe of God, In this notion alſo none fear God but righteous perſons, it is their peculiar Character that they fear God.</q>
+            </p>
+            <p>And verily, as this fear of God is the ſafeguard of all our own Graces <hi>(Timor eſt cuſtos virtutum)</hi> ſo it is the welfare <note place="margin">G. Pariſ.</note> of a people, if it be found in a Ruler; nothing avails more to keep his eyes ſhut, his ears open, his hands free, his heart ſound: <note place="margin">The fruits of the fear of God.</note> This preſerves in him Conſcientiouſneſs, Uprightneſs, Faith<g ref="char:EOLhyphen"/>fulneſs, Care, Diligence, Impartiality; This keeps him from Negligence, from Oppreſſion, from all Injuſtice; A man who fears God, dares not to be wicked, or to deal unrighteouſly. When <hi>Joſephs</hi> brethren thought that he would have dealt hardly with them, <hi>O no,</hi> ſaith <hi>Joſeph, I fear God;</hi> and <hi>Job</hi> durſt not to <note place="margin">Gen. 42. 18. Iob 31. 4.</note> do the leaſt wrong to any man, <hi>For,</hi> ſaith he, <hi>doth not God ſee my ways, and count all my ſteps?</hi>
+            </p>
+            <p n="2">2. Rulers or Magiſtrates muſt be men of Underſtanding, Judgement and Wiſdom; and therefore <hi>Solomon</hi> when he was to enter upon his Government, prayed, <hi>Lord, give thy ſervant</hi> 
+               <note place="margin">1 Kin. 3. 9.</note> 
+               <hi>an underſtanding heart, to judge thy people, that I may diſcern betwixt good and bad: for who is able</hi> (he meaneth without this) <hi>to judge this thy ſo great a people?</hi> Beloved, there are ſuch multitudes of buſineſſes, ſuch variety of cauſes, ſuch diverſity of <note place="margin">The neceſ<g ref="char:EOLunhyphen"/>ſity of wiſ<g ref="char:EOLhyphen"/>dom in Rulers.</note> circumſtances, ſuch cunning of pretences, ſuch newneſs of oc<g ref="char:EOLhyphen"/>currences, ſuch difficulties of reſolution, ſuch dangers in miſ<g ref="char:EOLhyphen"/>taking, that do of neceſſity require wiſdom and underſtanding in Rulers: Wiſdom and underſtanding are neceſſary for them to keep up their Authority, to direct them in the exerciſe of their Authority; they are an ornament to Rulers, and an ad<g ref="char:EOLhyphen"/>vantage to the people. <hi>By a man of underſtanding and know<g ref="char:EOLhyphen"/>ledge,</hi> 
+               <note place="margin">Prov 28. 2.</note> 
+               <hi>the State</hi> (of a Kingdom) <hi>is prolonged.</hi>
+            </p>
+            <p>
+               <pb n="9" facs="tcp:162270:7"/>
+Now righteous men are wiſe and underſtanding men; wicked <note place="margin">Righteous men are wiſe men.</note> men are more crafty, but righteous men are more wiſe: A righteous man and a wiſe man are (in <hi>Solomons</hi> opinion) reci<g ref="char:EOLhyphen"/>procal terms, as a wicked and a fooliſh man are. Conſider wiſdom</p>
+            <p>
+               <q>Either in relation to the Soul and Spiritual eſtate, as it ap<g ref="char:EOLhyphen"/>pears in the minding of the beſt part, in the eying of the chief<g ref="char:EOLhyphen"/>eſt good, in pitching upon the choyceſt means, and in ordering of man to the glory of God, and the certain fruition of moſt perfect bleſſedneſs, This wiſdom the righteous enjoy alone, none elſe are wiſe unto Salvation.</q>
+            </p>
+            <p>
+               <q>Or in relation unto ſecular adminiſtration for the civil good of people; even under this conſideration the moſt righ<g ref="char:EOLhyphen"/>teous <note place="margin">Inſtances of it.</note> have been moſt wiſe:</q> 
+               <hi>Joſeph</hi> was a righteous man, and a moſt wiſe man for Rule; <hi>Can we finde ſuch a one as this is,</hi> 
+               <note place="margin">Gen. 41. 38.</note> 
+               <hi>a man in whom the Spirit of God is?</hi> ſaid <hi>Pharaoh</hi> of him, when he preſented a method for the preſervation of <hi>Egypt: David</hi> was a righteous man, and in all his employments, whi<g ref="char:EOLhyphen"/>therſoever <hi>Saul</hi> ſent him, he went and behaved himſelf wiſely: <note place="margin">1 Sam. 18. 5.</note> 
+               <hi>Daniel</hi> and the three Children were righteous men, and in all <note place="margin">Dan. 1. 20.</note> matters of wiſdom and underſtanding, they were ten times better then all the Magicians and Aſtrologers: How wiſely did <hi>Moſes</hi> allay the diſtaſte which ſome had taken againſt <hi>Eldad</hi> and <note place="margin">Numb 11. 28, 29.</note> 
+               <hi>Medad?</hi> How wiſely did <hi>Gideon</hi> ſmooth off the fierceneſs of the men of <hi>Ephraim? Is not the gleanings of the grapes of</hi> 
+               <note place="margin">Iudg. 8. 2.</note> 
+               <hi>Ephraim better then the vintage of Abiezar?</hi> How wiſely did <hi>Solomon</hi> decide the diſpute about the living and the dead <note place="margin">1 King. 3. 26, 27, 28.</note> childe?</p>
+            <p n="3">3. Magiſtrates or Rulers muſt be juſt men: <hi>He that ruleth over men, muſt be juſt,</hi> ſaith <hi>David;</hi> and without all doubt <note place="margin">2 Sam. 23. 3</note> Juſtice tends to the joy and welfare of a people: <hi>Solomon</hi> ſaith, <hi>That it exalts a Nation;</hi> and we finde it to be a ſure <note place="margin">Pro. 14. 34.</note> hand, a ſure convey of bleſſings, in the Scriptures. Reade that place concerning <hi>Abrahams</hi> poſterity, <hi>They ſhall keep the way</hi> 
+               <note place="margin">Gen. 18. 19</note> 
+               <hi>of the Lord, to do juſtice and judgement, that the Lord may bring upon Abraham that which he hath ſpoken of him:</hi> And to this purpoſe the Prophet <hi>Jeremiah</hi> ſpeaks, <hi>Did not your father</hi> 
+               <note place="margin">Ier. 22. 15.</note>
+               <pb n="10" facs="tcp:162270:8"/>
+               <hi>do judgement and juſtice, and then it was well with him?</hi>
+            </p>
+            <p>He ſaid not amiſs, who ſpake that <hi>(Juſticia</hi> was <hi>Reip. co<g ref="char:EOLhyphen"/>lumna, &amp; Corona)</hi> Juſtice was the Pillar, and the Crown of a Kingdom: <hi>The throne is eſtabliſhed by Juſtice,</hi> ſaid <hi>Solomon,</hi> 
+               <note place="margin">Pro. 16. 12. Iob 29. 14.</note> there it is a Pillar: <hi>My judgement was as a Robe and Diadem,</hi> ſaid <hi>Job,</hi> there it is a Crown. There are four Ornaments for men; Eloquence is an Ornament for an Orator, Humility is an Ornament for a Chriſtian, Conſcience is an Ornament for a Miniſter, and Juſtice is an Ornament for a Magiſtrate. <note n="*" place="margin">
+                  <hi>P. Mar<g ref="char:EOLhyphen"/>tyr</hi> 2. Sam. pag. 269.</note> One ſaith, That to do Juſtice <hi>(Audire cauſas, Juvare pios, punire ſceleratos)</hi> it is <hi>munus Angelicum, imo Divinum,</hi> This is An<g ref="char:EOLhyphen"/>gels work, nay it is work fit for God himſelf.</p>
+            <p>And are there any men more juſt, then men truly righ<g ref="char:EOLhyphen"/>teous? <note place="margin">Righteous men are juſt men. Num. 16. 15.</note> 
+               <hi>I have not taken one Aſs from them, neither have I hurt any of them,</hi> ſaith righteous <hi>Moſes: Behold, here I am, wit<g ref="char:EOLhyphen"/>neſs againſt me before the Lord, and before his anointed, whoſe Ox have I taken? or whoſe Aſs have I taken? or whom have I defrauded? or of whoſe hand have I received any Bride to blinde mine eyes therewith?</hi> ſpake righteous <hi>Samuel.</hi> 
+               <note place="margin">1 Sam. 12. 3</note>
+            </p>
+            <p n="4">4. Rulers muſt be men of Mercy, as well as of Juſtice: <hi>I will ſing of mercy and juſtice,</hi> ſaith <hi>David;</hi> The Mercy-ſeat <note place="margin">Pſa. 101. 1.</note> was the beſt ſeat that ever was ſet up for Sinners: and it is the excellency of Chriſts Government, that it is full of Purity, and of Equity, and of Mercy. One relates of the Jews, That they would have none to be Magiſtrates, who were not Fa<g ref="char:EOLhyphen"/>thers of Children; they thought their fatherly relation would be a motion to mercy. Now Mercy in a Ruler is a joy unto a people, and conduceth unto the publique good: <hi>The throne is upheld by mercy,</hi> ſaith <hi>Solomon;</hi> and no perſons are more <note place="margin">Pro. 20. 28.</note> merciful then righteous perſons, they are begotten by the Fa<g ref="char:EOLhyphen"/>ther of Mercies, and are Children of Mercy: <hi>David</hi> ſaith, <hi>They are gracious, and full of compaſſion;</hi> and <hi>Solomon</hi> ſaith, <note place="margin">Pſa. 112. 4. Pro. 12. 10.</note> 
+               <hi>The righteous man regardeth the life of his beast,</hi> much more then the eſtates and lives of men.</p>
+            <p n="5">5. Rulers muſt be men of Courage: <hi>Be ſtrong, and of a good courage, dread not, nor be diſmayed;</hi> So <hi>David</hi> to <hi>Solomon,</hi> 
+               <note place="margin">1 Chron. 22. 13.</note> when he was to ſucceed in Authority. You read in 1 <hi>Kin.</hi> 10. 20.
+<pb n="11" facs="tcp:162270:8"/>
+that <hi>Solomon</hi> placed ſix Lyons upon the one ſide, as he went un<g ref="char:EOLhyphen"/>to his Throne of Judgement, and ſix upon the other ſide, by every ſtep there were two Lyons, to intimate, That men in Au<g ref="char:EOLhyphen"/>thority muſt be men of Courage. Magiſtrates (you have heard) are called <hi>Gods,</hi> and why ſhould Gods fear the faces of men? If men will dare <hi>to ſmite with the fist of violence</hi> (Iſa. 58. 4.) you ſhould dare <hi>to ſmite with the ſword of Juſtice</hi> (Rom. 13. 4.) Magiſtrates ſhould be like <hi>David,</hi> who had courage to reſcue the ſheep out of the mouth of the Lyon and of the Bear, 1 <hi>Sam.</hi> 17. 35.</p>
+            <p>And Courage in a Ruler is of wonderful good for a people: <note place="margin">The good w<hi rend="sup">ch</hi> comes by Magi<g ref="char:EOLhyphen"/>ſtrates cou<g ref="char:EOLhyphen"/>rage. Numb. 25. 8, 11. 2 Chro. 15. 8, to 17. Righteous men are couragious men, Pro. 28. 1. Neh 6. 11.</note> What good did <hi>Phinehas</hi>'s zeal bring unto Iſrael? it pacified God, and ſtayed the plague: What a notable Reformation did <hi>Aſa</hi>'s courage produce, even that which made all Iſrael to rejoyce: And no Magiſtrates are ſo couragious as righteous men; Grace makes the beſt hearts, and breeds the higheſt for<g ref="char:EOLhyphen"/>titude. <hi>The righteous men</hi> (ſaith <hi>Solomon) are bold as a Lyon: Should ſuch a man as I flee?</hi> ſaid <hi>Nehemiah:</hi> They who truly fear God, do fear nothing, but to ſin againſt God.</p>
+            <p>Fourthly, It may appear, That righteous Magiſtrates are a bleſſing and joy unto a people, if you conſider their Services or Practices in which they are engaged: Righteous Magiſtrates do conſcientiouſly ſet their juſt Authority on work for thoſe common and good ends for which Magiſtracy was ordained. The Magiſtrate may be pictured like <hi>Atlas</hi> bearing up the poles of Heaven; or he may ſay as <hi>David</hi> (Pſal. 75. 3.) <hi>I bear up the pillars of the Earth.</hi>
+            </p>
+            <p>There are four ſingular Services which Magiſtrates are to <note place="margin">Four works for Magi<g ref="char:EOLhyphen"/>ſtrates.</note> perform:</p>
+            <p>1. The firſt is, To maintain and ſupport true Religion; and therefore that Emperor ſet his Crown under the Bible: And <note place="margin">
+                  <hi>Summa ra<g ref="char:EOLhyphen"/>tio eſt quae pro Religi<g ref="char:EOLhyphen"/>one facit.</hi> Papinianus</note> 
+               <hi>Plato</hi> would have the Pallaces of Princes joyned to the Temples of the gods; their chief care ſhould be to uphold that which is the chiefeſt.</p>
+            <p>2. The ſecond is, To protect and encourage well-doers: <hi>Mine eyes</hi> (ſaith <hi>David) ſhall be upon the faithful of the land;</hi> and <note place="margin">Pſal. 101. 6. &amp; 16. 3. &amp; 72. 7.</note> 
+               <hi>My delight ſhall be in the excellent: In his days ſhall the righteous flouriſh.</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:162270:9"/>
+The third is, To intend and preſerve the publique welfare: <hi>Non mihi ſed Populo,</hi> ſaid <hi>Adrian</hi> the Emperor; <hi>Peace be within thy walls, and proſperity within thy pallaces, and I will</hi> 
+               <note place="margin">Pſal. 122. 7, 9. Eſth. 10. 3.</note> 
+               <hi>ſeek thy good,</hi> ſaid <hi>David</hi> for <hi>Jeruſalem:</hi> They muſt be like <hi>Mordecai,</hi> who did ſeek the good of his people, <hi>Non ſuum, ſed ſuorum.</hi>
+            </p>
+            <p>4. The fourth is, To puniſh ſin and wickedneſs in the ſeveral kindes and authors of it; and therefore is the Sword of Ju<g ref="char:EOLhyphen"/>ſtice put into their hands, <hi>To be a terror to evil works and evil</hi> 
+               <note place="margin">Rom. 13. 3, 4.</note> 
+               <hi>doers:</hi> And queſtionleſs all thoſe acts and ſervices do exceed<g ref="char:EOLhyphen"/>ingly contribute towards the good and joy of people. A peo<g ref="char:EOLhyphen"/>ple are like a Garden, Religion is like the Sun, Peace is like the Clouds, Good men are like the Plants, Wicked men are like the Weeds, Juſtice is like the Wall: Now no men can or will improve Authority thus, but righteous men. Righteous men, they onely are the Servants of God, the Lovers of Truth, the Friends to Godlineſs, the Enemies of Wickedneſs, and the Channels of all publique good: Of this you may be con<g ref="char:EOLhyphen"/>fident, That the Goſpel never ſpread more, that Godlineſs never ripened more, that Wealth never thrive more, that Tranquility <note place="margin">Peruſe the Hiſtory of the Iudges and of the Kings.</note> never ſetled more, that Safety never compaſſed a Nation more, then when Rulers (men in Authority) have been moſt ſincerely righteous and pious. And thus you ſee the firſt Aſſertion de<g ref="char:EOLhyphen"/>monſtrated unto you; namely, What a Joy, what a Comfort, what a Bleſſing righteous Magiſtrates are unto a people. I muſt now turn the Tables, and ſhew unto you what a Curſe, what a Miſery, what a Burthen wicked Rulers are unto a peo<g ref="char:EOLhyphen"/>ple; for ſo it follows in the Text <hi>[But when the wicked beareth rule, the people mourn.]</hi> Hence the ſecond Propoſition,</p>
+            <p>
+               <hi>That much of a Peoples miſery and ſorrow lies in wicked Ru<g ref="char:EOLhyphen"/>lers;</hi> 
+               <note place="margin">2 <hi>D.</hi>
+               </note> or, That wicked Rulers are cauſes of woful mourning un<g ref="char:EOLhyphen"/>to a people.</p>
+            <p>When <hi>Pharaoh</hi> bare rule, what a mournful time was it with <note place="margin">Inſtances Exo. 2. 23.</note> the Iſraelites? <hi>The Children of Iſrael ſighed by reaſon of the bondage, and they cryed, and their cry came up to God.</hi>
+            </p>
+            <p>When the wicked Judges bare rule, what a woful time was it with the people? the Enemies break in and ſpoil the Coun<g ref="char:EOLhyphen"/>trey, <note place="margin">Iudges 2. 14, 15.</note>
+               <pb n="13" facs="tcp:162270:9"/>
+trey, and the people hide themſelves in Dens and Caves.</p>
+            <p>When <hi>Saul</hi> bare rule, what a mournful time was it with <hi>David</hi> (he is forced to fly from place to place) and with the <note place="margin">1 Srm. 26. 30.</note> Prieſts of the Lord? of whom he cauſed to be ſlain in one day Fourſcore and five perſons; and beſides, <hi>He ſmote Nob the city of the Prieſts with the edge of the ſword, both men and women,</hi> 
+               <note place="margin">1 Sam 22. 18, 19.</note> 
+               <hi>children and ſucklings.</hi>
+            </p>
+            <p>When <hi>Ahab</hi> and <hi>Jezebel</hi> bare rule, what a mournful time was it? many of the Prophets were ſlain, others hid them<g ref="char:EOLhyphen"/>ſelves <note place="margin">1 Kin 14. 4 &amp; 19. 10. &amp; 21. 13.</note> in Caves, <hi>Elijah</hi> flyes for his life, and <hi>Naboth</hi> was ſtoned to death for his Vineyard.</p>
+            <p>When <hi>Haman</hi> bare rule, what a mourning did his wicked deſign occaſion? <hi>The City</hi> Shuſhan <hi>was perplexed, and in every</hi> 
+               <note place="margin">Eſth. 3. 14. &amp; 4. 3.</note> 
+               <hi>Province there was great mourning among the Jews, and faſt<g ref="char:EOLhyphen"/>ing, and weeping and wailing.</hi>
+            </p>
+            <p>When <hi>Herod</hi> bare rule, he made it a mournful time, for he ſlew all the Children that were in <hi>Bethlehem,</hi> and all the coaſts thereof, from two years old and under; <hi>And now there was</hi> 
+               <note place="margin">Matth. 2. 16, 18.</note> 
+               <hi>a voyce heard in Ramah, lamentation, and weeping, and great mourning.</hi>
+            </p>
+            <p>And truly, if you conſider either the perſons, or their diſpo<g ref="char:EOLhyphen"/>ſitions in Authority, or their Actions, or the conſequences of <note place="margin">Four De<g ref="char:EOLhyphen"/>monſtra<g ref="char:EOLhyphen"/>tions of the Point.</note> their evil Government, it will plainly appear, That there is nothing in wicked Rulers, or from them, but what is very mournful.</p>
+            <p n="1">1. Conſider the perſons themſelves; Wicked perſons are filled with woful Principles: When <hi>Hazael</hi> came to the Pro<g ref="char:EOLhyphen"/>phet <hi>Eliſha, Eliſha</hi> wept, and <hi>Hazael</hi> ſaid, <hi>Why weepeth my</hi> 
+               <note place="margin">2 Sam 8. 11, 12.</note> 
+               <hi>lord?</hi> who anſwered, <hi>Becauſe I know the evil that thou wilt do unto the children of Iſrael; Their ſtrong holds thou wilt ſet on fire, their yong men thou wilt ſlay with the ſword, and wilt daſh their Children, and rip up their women with childe.</hi> O Sirs, the Principles of wicked men are cruel Principles, covetous Princi<g ref="char:EOLhyphen"/>ples, oppreſſing Principles, unjuſt, falſe, corrupt, and irreligious Principles; their Principles are (certainly) againſt God, againſt Chriſt, againſt Truth, againſt Holineſs, againſt Juſtice, againſt Faithfulneſs, againſt all the good of publique Society.</p>
+            <p>
+               <pb n="14" facs="tcp:162270:10"/>
+And is it not lamentable to ſee ſuch men bear rule? that the defence of the Goſpel ſhould be committed to him who is an enemy to the Goſpel? that the ſeat of Juſtice ſhould be put to him who is, and cannot but be unjuſt? That the protection of Truth and Holineſs ſhould reſt in his hands, who (with all his ſoul) hates the one and the other? That the care of pub<g ref="char:EOLhyphen"/>lique good ſhould be Leaſed out to him, who altogether con<g ref="char:EOLhyphen"/>ſults his private gain? That the adminiſtration of Govern<g ref="char:EOLhyphen"/>ment ſhould be given unto a lawleſs man? The Sword of Ju<g ref="char:EOLhyphen"/>ſtice to a mad man? The power of differencing of Cauſes to a fool? Common ſafety to one who is a common Plague? Were it not woful to have the raging Sea to rule the Ship? or the furious fire to govern an houſe? Every wicked man is the one and the other.</p>
+            <p n="2">2. Secondly, conſider their diſpoſitions as in Authority, and <note place="margin">Wicked Rulers ſad<g ref="char:EOLhyphen"/>ly expreſſed in the Scri<g ref="char:EOLhyphen"/>ptures.</note> you ſhall finde ſtill more cauſe of mournfulneſs. The Scriptures compare wicked Rulers</p>
+            <p n="1">1. Sometimes to the <hi>Bramble, Judg.</hi> 9. 14. There is no fruit from a bramble, nay not ſo much as leaves to make a ſhadow; nay, in ſtead of theſe, it is full of ſharp pricks, which ſcratch, and tear, and wound, and pain us: No other thing is a wicked Ruler; take him at his beſt, he is but an <hi>Inutile pondus</hi> (a <hi>George</hi> on horſeback) and take him in his proper diſpoſition, he is (as the Prophet ſpeaks) <hi>A pricking bryar, and a grieving thorn.</hi> A <note place="margin">Eze. 28. 24.</note> wicked Magiſtrate, this is the ſumme of him, He is a great mans Slave, a poor mans Curſe, a good mans Foe, a wicked mans Friend, and all mens hurt.</p>
+            <p n="2">2. Sometimes unto the <hi>Lyon and Bear:</hi> I confeſs that the <note place="margin">Pro. 30. 30.</note> Lyon (oft times) is the Emblem of Majeſty, Strength and Courage; but under this notion a wicked Ruler is not intend<g ref="char:EOLhyphen"/>ed: You read in Scripture of the Devil, that he is called <hi>A roaring and devouring Lyon;</hi> to ſuch a Lyon is a wicked Ruler <note place="margin">1 Pet. 5. 8.</note> compared: <hi>As a roaring Lyon and a ranging Bear, ſo is a wic<g ref="char:EOLhyphen"/>ked</hi> 
+               <note place="margin">Pro. 28. 15.</note> 
+               <hi>Ruler over the poor people,</hi> ſaith <hi>Solomon. David</hi> ſpeaks in one Pſalm, <hi>That the Lyons roar out for their prey;</hi> and in <hi>Da<g ref="char:EOLhyphen"/>niel</hi> 
+               <note place="margin">Pſa. 104.</note> you read, <hi>That the Lyons brake in pieces the bones of thoſe accuſers:</hi> The very like doth the Prophet <hi>Micah</hi> affirm of <note place="margin">Dan. 6. 24.</note>
+               <pb n="15" facs="tcp:162270:10"/>
+wicked Rulers, <hi>They pluck off the skin from my people, and their fleſh from off their bones; They eat alſo the fleſh of my</hi> 
+               <note place="margin">Mic. 3. 2, 2.</note> 
+               <hi>people, and flay their skin from off them, and break their bones, and chop them in pieces, &amp;c.</hi> Is it not lamentable to have a peo<g ref="char:EOLhyphen"/>ple thus abuſed?</p>
+            <p n="3">3. Sometimes unto <hi>Scorpions:</hi> The Prophet <hi>Ezekiel</hi> is ſaid <note place="margin">Ezek 2 6.</note> 
+               <hi>to dwell among Scorpions;</hi> All wicked men are Scorpions, and eſpecially wicked Rulers. There are four things which the Na<g ref="char:EOLhyphen"/>turaliſts do obſerve in Scorpions; 1. They are venemous Beaſts, full of poyſon. 2. They are miſchievous Beaſts, apt to harm: <hi>Pliny</hi> ſaith of them, That they are <hi>(Semper in ictu)</hi> al<g ref="char:EOLhyphen"/>ways <note place="margin">Plinius, Eglinus.</note> thruſting out their Stings. 3. They are troubleſome Beaſts, and therefore in thoſe countreys where Scorpions a<g ref="char:EOLhyphen"/>bound, the Inhabitants dare not to lodge low, and are forced many times, <hi>Ocreatos dormire.</hi> 4. They are tormenting Beaſts, they lick you, and wound you, and torment you; <hi>Their torment was as the torment of a Scorpion, when he ſtrikes a man,</hi> Rev. 9. 5. Now all this are wicked Rulers, they are as he ſpake of <hi>Nero, Veneum terrae: The poyſon of Adders is under their lips, they are full of miſchief; David</hi> ſaith, <hi>That miſchief is in their</hi> 
+               <note place="margin">Pſal. 36. 4. &amp; 28. 3. &amp; 140. 9. &amp; 26. 10.</note> 
+               <hi>heads,</hi> Pſal. 36. 4. <hi>and in their hearts,</hi> Pſal. 28. 3. <hi>and in their tongues,</hi> Pſal. 140. 9. <hi>and in their hands,</hi> Pſal. 26. 10. And be<g ref="char:EOLhyphen"/>ſides all this, they are but a torment and vexation to a people, <hi>They have vexed the fatherleſs and widow,</hi> Ezek. 22. 7.</p>
+            <p n="4">4. Sometimes unto <hi>Wolves, Ravening wolves (Her Princes</hi> 
+               <note place="margin">Eze. 22. 27 Zeph. 3. 3.</note> 
+               <hi>are like wolves ravening the prey) and evening wolves: (Her Judges are evening wolves)</hi> and what the diſpoſition of theſe are, I need not diſcourſe of amongſt you.</p>
+            <p>3. Thirdly, ſurvey a few of the actions of wicked Rulers and then judge whether they be not cauſes of woful mourning to a people: Their actions or works have been ſuch as have overthrown Religion and Juſtice, and ſo conſequently the Souls and Bodies of men, and what more can be ſaid to expreſs la<g ref="char:EOLhyphen"/>mentation and mourning?</p>
+            <p n="1">1. Concerning Religion (in which bottom all our Souls are embarqued) were it not moſt amazingly ſad, if a people ſhould forſake the true God, and ſet up Idols, and Sacrifice to
+<pb n="16" facs="tcp:162270:11"/>
+Devils, nay Sacrifice their Sons and Daughters to Devils, re<g ref="char:EOLhyphen"/>nounce the Son of God, the Truth of Chriſt, the Goſpel of Salvation? O in what a lamentable condition are ſuch a peo<g ref="char:EOLhyphen"/>ple! Yet wicked Rulers have done all this themſelves, and have cauſed <note place="margin">
+                  <hi>Flagitioſiſ<g ref="char:EOLhyphen"/>ſima feceri facinora ſe<g ref="char:EOLhyphen"/>cuti morem Imperatoris ſui.</hi> Saluſt in Iugurth.</note> the people to do all this by their examples, by their per<g ref="char:EOLhyphen"/>ſwaſions, by their commands, by their threats, by their power, as you may read (for ſome part of it) in the Hiſtory of the Kings of <hi>Iſrael</hi> and <hi>Judah,</hi> and (for the other part of it) in Eccleſiaſtical Hiſtories ſince Chriſt.</p>
+            <p n="2">2. Concerning Juſtice (which is the Ark of a peoples ſafe<g ref="char:EOLhyphen"/>ty) how woful have the actions of wicked Rulers been againſt it? Juſtice is like that <hi>goodly ſpreading Tree,</hi> ſpoken of in <hi>Daniel, The leaves whereof were fair, and the fruit thereof</hi> 
+               <note place="margin">Dan. 4. 12.</note> 
+               <hi>much, and in it was meat for all, the beaſts of the field had ſha<g ref="char:EOLhyphen"/>dow under it, and the fowls of the heaven dwelt in the boughs thereof, and all fleſh was fed of it;</hi> yet wicked Rulers are (in this reſpect onely) like him that cryed aloud, <hi>Hew down the</hi> 
+               <note place="margin">Ver. 14.</note> 
+               <hi>Tree, and cut off his branches, ſhake off his leaves, and ſcatter his fruit; let the beaſts get away from under it, and the fowls from his branches.</hi> Whatſoever tends to the utter ſubverſion of Juſtice, the ſame hath been done by wicked men when they bare rule: At your leiſure peruſe the Scripture, and that will report unto you</p>
+            <p>
+               <q>Their neglecting of Judgement: <hi>They judge not the fa<g ref="char:EOLhyphen"/>therleſs, neither doth the cauſe of the widow come unto them;</hi> 
+                  <note place="margin">Iſa. 1. 23.</note> 
+                  <hi>They overpaſs the deeds of the wicked, and the right of the needy do they not judge.</hi>
+               </q> 
+               <note place="margin">Ier. 5. 28.</note>
+            </p>
+            <p>
+               <q>And their perverting of Judgement: <hi>They afflict the juſt, they take a bribe, and they turn aſide the poor in the gate from</hi> 
+                  <note place="margin">Amos 5. 7. 12.</note> 
+                  <hi>their right; They turn judgement into wormwood, and leave off righteouſneſs in the Earth,</hi> ſaith the Prophet <hi>Amos: They ju<g ref="char:EOLhyphen"/>ſtifie the wicked for a reward, and take away the righteouſneſs of the righteous from him,</hi> ſaith the Prophet <hi>Iſaiah:</hi> And <hi>are</hi> 
+                  <note place="margin">Iſa. 5. 23.</note> 
+                  <hi>not theſe the things which will make a land to mourn?</hi> 
+                  <bibl>Amos 8. 8.</bibl>
+               </q>
+            </p>
+            <p>4. Laſtly, conſider the Conſequences which befal a people for all theſe things: The times of Gods Judgement upon a people are mournful times, and times of wickedneſs make
+<pb n="17" facs="tcp:162270:11"/>
+times of judgement, and the times of wicked Rulers do make the times moſt wicked, and therefore expoſe them to the greateſt of Gods judgements. It were eaſie to ſhew unto you, That God hath, even for the wickedneſs of Rulers, 1. De<g ref="char:EOLhyphen"/>parted from a people, forſaken them, caſt them off. 2. Hath removed all their outward bleſſings, the Corn, and Wine, and Wooll, and Flax, and Plenty, and Peace, and Honor. 3. Hath denyed them many bleſſings, denyed them the fruits of the Earth, the ſhowers of Heaven, the ſeaſons of Harveſt, Help, Succor, Preſervation, Deliverance. And 4. Hath inflicted up<g ref="char:EOLhyphen"/>on them the ſoreſt of judgements, Plague, Famine, Sword, and hath rooted them out of their Land, and ſcattered them over all the quarters of the world.</p>
+            <p>And now I think you may ſafely ſubſcribe unto the truth of this Aſſertion alſo, That wicked Rulers do make a peoples con<g ref="char:EOLhyphen"/>dition very lamentable and mournful; as on the contrary, Righteous Rulers do make their condition very happy and joy<g ref="char:EOLhyphen"/>ful. There remains nothing but the Application of all this to your ſelves and your preſent occaſion, which I ſhall finiſh in three Uſes: 1. The firſt ſhall be a word for you who come this day to chooſe a Magiſtrate or Ruler. 2. The ſecond ſhall be a word unto him whoſe lot it may be to be choſen by you this day. 3. The third and laſt Uſe ſhall concern all of you, whe<g ref="char:EOLhyphen"/>ther Electors or Elected, Magiſtrates or People, and the Lord direct what I have to ſay unto all your hearts.</p>
+            <p>Firſt, For you who are (this day) to chooſe a Magiſtrate, <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> I do humbly preſent unto your wiſdoms three Advices: <note place="margin">Three Ad<g ref="char:EOLhyphen"/>vices to thoſe who are to chooſe a Magiſtrate. <hi>Alvares.</hi>
+               </note>
+            </p>
+            <p>1. <hi>Be very ſerious:</hi> One ſaid, That it was as hard a task to obey well, as to command well; and I think it is (almoſt) an equal weight of difficulty to chooſe a good Magiſtrate, as it is to be a good Magiſtrate. <hi>Alvares</hi> reports of the <hi>Aethiopians,</hi> That they placed many empty Chairs about the Judge's Seat, ſuppoſing that the gods came down and ſate with him; This was but a fiction, and yet it ſerved to work an awful care in Judges to ſentence righteouſly: Nevertheleſs, this is a Truth, That God himſelf looks upon every one of you in this work, &amp; conſiders what you intend or act. Magiſtracy is his Ordinance,
+<pb n="18" facs="tcp:162270:12"/>
+as wel as Miniſtery, his Image of Authority ſhines in that, as his Image of Grace appears in this; &amp; his Honor is as much intere<g ref="char:EOLhyphen"/>ſted in the former, as your Salvation is concerned in the latter.</p>
+            <p>There are ſix Arguments which unto me ſeem ſufficient to <note place="margin">Six mo<g ref="char:EOLhyphen"/>tives to be ſerious.</note> perſwade you to be <hi>very ſerious in your work of choyce:</hi>
+            </p>
+            <p n="1">1. <hi>The Office is high:</hi> There is nothing (no, though never ſo ſmall) wherein the Name, or the Image, or the Work, or the Honor of God are involved, but hath Majeſty in it, and challengeth reverential ſeriouſneſs from us: And all theſe do center in Magiſtrates; for Magiſtrates 1. Do bear the Name of God, God himſelf doth call them <hi>Gods, Pſal.</hi> 82. 6. 2. They do bear the Image of God: Dominion is a part of Gods Image, <hi>Gen.</hi> 1. 26. on it are engraven the large Characters of his Greatneſs, of his Goodneſs, of his Wiſdom, of his Mercy, of his Juſtice. 3. They are in the place of God, they are his Deputies or Vicegerents here on Earth. 4. They bear the Sword for God, their Office is from him, and their work is to be for him, <hi>Rom.</hi> 13. 1, 4. 5. They are entruſted with the Ho<g ref="char:EOLhyphen"/>nor of God, even with as much of it as both the Tables of the Law of God do contain, of both which they are <hi>Cuſtodes.</hi> Should you not be ſerious in that which hath (in and about it) ſo much of what is Sacred and Divine?</p>
+            <p n="2">2. <hi>The Truſt is great;</hi> and according to the nature of a Truſt, ſhould be the proportion of every wiſe mans care. Whatſoever is dear to God, and valuable with you, the Magi<g ref="char:EOLhyphen"/>ſtrate is (in ſome degree or other) truſted with; The Magiſtrate is a Pilot, and this City is a Ship: Are you not careful unto what Pilot you commit the Ship? eſpecially a Ship ſo richly la<g ref="char:EOLhyphen"/>den? and more eſpecially in times of Storms and Tempeſts? The Magiſtrate is a Commander, this City is a Caſtle: Are you not careful into whoſe Cuſtody you render the Caſtle? eſpe<g ref="char:EOLhyphen"/>cially a Caſtle of ſo great a ſtrength, and in times of ſuch dan<g ref="char:EOLhyphen"/>ger, wherein many have betrayed their Truſt? A Magiſtrate is (as you have heard) <hi>A Shepherd,</hi> and this City is as a flock of ſheep: Are you not careful unto whoſe watchfulneſs you leave the ſheep? eſpecially ſhould you not (at this time) be ſo much the more careful, when ſo many Wolves do abound, and (per<g ref="char:EOLhyphen"/>haps)
+<pb n="19" facs="tcp:162270:12"/>
+run up and down amongſt the ſheep? A Magiſtrate is a Nurſe, the City is the Childe: Are we not ſerious unto whoſe Arms and Breaſts we lend and recommend our deareſt Chil<g ref="char:EOLhyphen"/>dren? Religion is a Jewel, Juſtice is a Jewel, Trading, Safety, Proſperity are Jewels; will you not be adviſed in whoſe hands you depoſite ſuch precious Jewels?</p>
+            <p n="3">3. <hi>The Employment is difficult:</hi> We look upon Authority as a great Dignity; and ſo it is; (every Magiſtrate is a Star of the greater Magnitude) but withal remember, That the Magiſtrate hath as well the Chain about his ſhoulders, and the Sword in his hand, as the goodly Collar of <hi>Eſſees,</hi> and his pompous Robes: The Chain of many Duties, which he is bound to act, and the Sword of Juſtice, which he is bound rightly to wield: As the wheels in <hi>Ezekiel</hi> were full of Eyes, ſo a Magiſtrates Calling is full of Cares and Services. There are two Callings which are the higheſt in the world, and alſo the heavieſt in the world; 1. The Miniſters calling, <hi>(Who is ſufficient for theſe things,</hi> ſaid <hi>Paul.)</hi> 
+               <note place="margin">2 Cor. 2. 16. Exod. 4. 13.</note> 2. The Magiſtrates Calling <hi>(O my Lord, ſend I pray thee by the hand of him whom thou wilt ſend,</hi> ſaid <hi>Moſes.) Trajan</hi> ſaid of his Imperial Crown, That he who knew the cares of it, would not ſtoop to take it up: And <hi>Demoſthenes</hi> profeſſed, That if there were two ways before him, the one leading to Govern<g ref="char:EOLhyphen"/>ment, and the other to Death, he would rather chooſe that which did lead to Death.</p>
+            <p>You read of <hi>Paul,</hi> that he complained, <hi>All the care of the Churches were upon him:</hi> O then, what a burthen muſt lie upon that man, upon whom muſt fall all the care of <hi>this great and mighty City!</hi> It is a great care to look to one Pariſh, It is a great care to look to one Family, It is a great care but to look to one Soul, What is it then to have the care of ſo many millions of men lying upon one ſhoulder? To take care that ſo many mili<g ref="char:EOLhyphen"/>ons lie down in ſafety, Trade in ſafety, walk in ſafety, and live in peace? To take care that God be wronged by none of theſe, That his day be prophaned by none of theſe, That not one of them be wronged, That not one of them do wrong, but he ſhall ſuffer according to the wrong which he hath done? Hath every man ſhoulders ſufficient and proportionable to bear ſo vaſt a burthen? Therefore be ſerious.</p>
+            <p n="4">
+               <pb n="20" facs="tcp:162270:13"/>
+4. <hi>The Miſtake is dangerous, Error Perſonae</hi> is as dangerous in Magiſtracy, as it is in Marriage, much more dangerous then <hi>Error Fortunae:</hi> All the danger lies in <hi>Error Perſonae;</hi> for of all men, wicked men are the worſt; and of all wicked men, wicked Rulers are the worſt: The Leproſie in the head was the worſt of all Leproſies; Poyſon in the Fountain is moſt influ<g ref="char:EOLhyphen"/>entially dangerous: A Canker in the Root of the Tree, is perni<g ref="char:EOLhyphen"/>cious to all the Tree; <hi>If the eye be blinde, the whole body is full of darkneſs,</hi> ſaith our Savior. The Devils are the worſt of all Crea<g ref="char:EOLhyphen"/>tures, for they are <hi>Principalities, and Powers, and Rulers of dark<g ref="char:EOLhyphen"/>nes,</hi> 
+               <note place="margin">Eph 6. 12.</note> 
+               <hi>and are wickednes in High places:</hi> Wickedneſs is bad enough at the loweſt; but it is intolerable when raiſed or high with po<g ref="char:EOLhyphen"/>wer. A wicked Ruler is a fiery Arrow, ſhot out of the wrath of God amongſt a people: Do you not by all this diſcern what the danger of your miſtake may be? And yet men are ſub<g ref="char:EOLhyphen"/>ject to this dangerous miſtake, even <hi>Samuel</hi> was ſubject unto it; <hi>Surely</hi> (ſaid he) <hi>the Lords anointed is before him:</hi> But the Lord ſaid, <hi>Look not on his countenance, or on the height of his ſta<g ref="char:EOLhyphen"/>ture,</hi> 
+               <note place="margin">1 Sam. 16. 6, 7.</note> &amp;c. yea, and (ſometimes) they who would be choſen, do trap and beguile us into this Error by goodly pretences, as <hi>Abſolom</hi> did, 2 <hi>Sam.</hi> 15. 4. and by courteous and fair carriages, as <hi>Galba</hi> did, of whom <hi>Tacitus</hi> writes, <hi>Omnium conſenſu capax imperii niſi Imperâſſet.</hi>
+            </p>
+            <p n="5">5. <hi>Your Opportunity is honorable:</hi> There is no new Ma<g ref="char:EOLhyphen"/>giſtrate to be choſen by you for this City, but God at ſuch a time preſents unto you four great advantages: 1. One is, To make Chriſt very glorious. 2. A ſecond is, To make Religion very proſperous. 3. A third is, To make this City very happy. 4. A fourth is, To make the whole Kingdom (upon which this place hath ſuch an exemplary influence) very ſafe.</p>
+            <p>Beloved, you have in your hands, This one day, All the next years Mercies, and Bleſſings, All your own Comforts, and, All your Brethrens Comforts: A good choyce is a full years Bleſſing. And verily, as ſuch an opportunity is preci<g ref="char:EOLhyphen"/>ous, ſo the honor which God puts upon you in that oppor<g ref="char:EOLhyphen"/>tunity is very glorious; for as Magiſtrates are Gods in reſpect of Office, ſo are you (who come to chooſe) you are alſo Gods
+<pb n="21" facs="tcp:162270:13"/>
+in reſpect of the fruit of your Choyce, for according as your Choyce is, you make day or night, light or darkneſs, good or evil, joy or ſorrow unto the people, which works God owns for his works in Scripture.</p>
+            <p n="6">6. Laſtly, <hi>The very individual action is weighty:</hi> For it is E<g ref="char:EOLhyphen"/>lection, and Election is a weighty action; it is an action which naturally calls for, and depends upon Judgement, Counſel, Deliberation. There are ſome Magiſtrates by Succeſſion, whom people receive, but chooſe not; and there are ſome Ma<g ref="char:EOLhyphen"/>giſtrates by Nomination, who are choſen for us, but not by us; and there are ſome Magiſtrates by Election, who are (if I may ſo allude) our own Creatures and Workmanſhip: And we, we are the more entituled unto their good or evil carriages, by how much the more they are formed up into their place of Au<g ref="char:EOLhyphen"/>thority by our own wills, not meerly conſenting, but diſtin<g ref="char:EOLhyphen"/>guiſhingly chooſing and raiſing of them; ſo that if they be good, the firſt fruits of the comforts are your portion; and if they be bad, the bitter water of Curſe is likely to be your draught firſt: O therefore how ſerious ſhould you be in this work! you ſhould uſe the Touchſtone and the Ballance, Try men, and Weigh men. Election (they ſay) is onely <hi>Paucorum,</hi> and <hi>Bo<g ref="char:EOLhyphen"/>norum,</hi> and <hi>Optimorum;</hi> Well, ſince the Office is high, the Truſt great, the Adminiſtration difficult, the Error dange<g ref="char:EOLhyphen"/>rous, the Opportunity honorable, and the Action weighty, here are Reaſons enough why you ſhould be ſerious.</p>
+            <p>2. My ſecond Advice unto you is, That in this work <hi>you be Religious:</hi> When you are to chooſe a Magiſtrate, chooſe him firſt by the Book, and then upon your Knees, and laſt of all by the Vote.</p>
+            <p n="1">1. By the Book, <hi>Da Magiſtrum,</hi> ſaid <hi>Cyprian;</hi> or as one writes of <hi>Boleſlaus</hi> (King of <hi>Poland)</hi> who ſtill carried about him his Fa<g ref="char:EOLhyphen"/>thers Picture, and when he was to do any great work, he would look on the Picture, and Pray, That he might do nothing unworthy of ſuch a Fathers Name. The Scriptures are the Picture of Gods will (there his will is drawn out to the life) be<g ref="char:EOLhyphen"/>fore you chooſe a Magiſtrate, look there, and read there, what maner of Perſon God commends as fitteſt for Rule; and whom
+<pb n="22" facs="tcp:162270:14"/>
+God doth chooſe, do you chooſe; and whom God rejects, do you reject: as the <hi>Tirſhatha</hi> did put them by from the Prieſt<g ref="char:EOLhyphen"/>hood, <note place="margin">Neh. 7. 64.</note> whoſe Regiſter could not be found in the Genea<g ref="char:EOLhyphen"/>logie.</p>
+            <p n="2">2. Upon your Knees: For a good Magiſtrate, as he is for God, ſo he is from God; Every bleſſing comes from the Fa<g ref="char:EOLhyphen"/>ther of Bleſſings: Our Miſeries begin below, on Earth, but our Mercies and Comforts ſpring from above, in Heaven; there is not the leaſt Mercy but is above our Deſerts, and worth a Prayer. Publique Officers may prove the more woful, becauſe private people are leſs Prayerful. The Iſraelites deſired a King, but they did not deſire a <hi>good</hi> King, and they ſped according<g ref="char:EOLhyphen"/>ly: <hi>Moſes</hi> his Prayer ſhould in this caſe be our Pattern, <hi>Let the Lord, the God of the Spirits of all fleſh, ſet a man over the Con<g ref="char:EOLhyphen"/>gregation:</hi> 
+               <note place="margin">Num. 27. 16.</note> I know no reaſon why there ſhould not be as ſo<g ref="char:EOLhyphen"/>lemn Faſting and Praying before the choyce of a Magiſtrate, as (anciently) there have been before the choyce of a Mi<g ref="char:EOLhyphen"/>niſter.</p>
+            <p n="3">3. <hi>Be concientiouſly Reſolute:</hi> Chooſe no man but him whom (in your Conſciences well enlightened) you believe fit<g ref="char:EOLhyphen"/>teſt for ſo great a Place and Charge.</p>
+            <p>Do not lay aſide a perſon for any private grudge; look on no man as <hi>your</hi> Enemy, but as <hi>Adrian</hi> ſaid of one ('twixt whom and himſelf there had been a perſonal quarrel) when he came into his Authority, <hi>Evaſiſti;</hi> ſo let every one of you ſay of any one with whom you have had any private differences, <hi>Evaſiſti,</hi> I muſt not think of <hi>my</hi> Enemy this day.</p>
+            <p>Nor yet lay hold on any Perſon for any private intereſt: As you muſt not remember who hath been <hi>your Enemy</hi> ſo you muſt forget who hath been or may be <hi>your Friend:</hi> There is this difference 'twixt Bowling and Shooting, in Bowling we conſider the Byas, but in Shooting we fix our eye onely upon the Mark: In this buſineſs of choyce you ſhould not conſider, how good a Friend, but how good a Magiſtrate; Not what prefer<g ref="char:EOLhyphen"/>ment may come to you, but what Emolument may come to the City; Not how able the perſon is to head a Deſign, but how fit he is to rule ſo great a people: And therefore, as he ſaid of a
+<pb n="23" facs="tcp:162270:14"/>
+Judge, (before whom a great cauſe Cauſe came) Dare now to be juſt; the like I ſay unto all you, who come to chooſe a pub<g ref="char:EOLhyphen"/>lique Officer this day, Dare now to be conſcientious.</p>
+            <p>Know you a perſon to be a a Scoffer at the Word of God, an Hater of Godlineſs, an Enemy to Godly Perſons, Pro<g ref="char:EOLhyphen"/>phane, Looſe and Irreligious in his walking? dare to reject him from being your Governor, who rejects God from being his Governor.</p>
+            <p>Know you a man to have been unfaithful to the Kingdom, unjuſt in Inferior Truſts, cruel in his Dealings, turbulent in his Spirit, Revengeful in his Diſpoſition, imperious in his Place, who will take no wrong, and do no right, Dare to hinder him this day from rule. Is he fit to be a Shepherd who plays the Wolf? or to be a Father, who tears and rents like a Lyon? Is he fit to ſit on the Bench and Judge, who deſerves to ſtand at the Bar and to be judged?</p>
+            <p>Know you a man who prefers his private Intereſt before the publique good, who conſults his own eaſe and ſafety be<g ref="char:EOLhyphen"/>fore the welfare of Religion and Juſtice, who like wax may <note place="margin">Of every one of theſe it may be ſafely ſaid, what <hi>Solo<g ref="char:EOLhyphen"/>mon Jarchi</hi> fancies <hi>Moſes</hi> to have ſaid to him who at the election of the ſeven<g ref="char:EOLhyphen"/>ty, drew that black which was called <hi>H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k, Non <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>pit T<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Deus.</hi>
+               </note> be tempered to receive any impreſſion from a friend, who may be bought and ſold by a Bribe, turned any way by hopes or fears, who looks on this Office, as <hi>Demetrius</hi> did upon <hi>Diana, for gain,</hi> who is of that Emperors minde, when a poor wo<g ref="char:EOLhyphen"/>man delivered him a Petition, he anſwered, <hi>Non eſſet otium:</hi> aſſuredly her reply is a good caution for you, <hi>Noli ergò Impe<g ref="char:EOLhyphen"/>rare:</hi> this is the man who will be a plague and curſe to you.</p>
+            <p>But on the contrary, If upon mature obſervation and expe<g ref="char:EOLhyphen"/>rience, you finde a perſon (as I truſt many there are in this So<g ref="char:EOLhyphen"/>ciety) who is religious with <hi>Joſhua,</hi> zealous with <hi>Joſiah,</hi> juſt with <hi>Samuel,</hi> meek, and compoſing of differences amongſt Brethren with <hi>Moſes,</hi> wiſe with <hi>Solomon,</hi> fearing God with <hi>Job,</hi> ſeeking the welfare of his people with <hi>Mordecai,</hi> loving of the excellent, and frowning on the wicked with <hi>David,</hi> un<g ref="char:EOLhyphen"/>moveable in the ways of Righteouſneſs with <hi>Paul,</hi> above fears with <hi>Nehemiah,</hi> againſt Bribes with <hi>Eliſha,</hi> whoſe honor lies in Gods honor, and his happineſs is abundantly made up in your common welfare and bleſſing; reſolve on him, this is
+<pb n="24" facs="tcp:162270:15"/>
+the man, this is the Righteous man, who being in Authority, will give occaſion of joy unto all the people: The Lord direct you to light on ſuch a one this day, and this is all which I have to ſay unto you.</p>
+            <p>I have in the next place a word to ſay unto him, whoſoever <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>2</label> he may be, on whom the lot may fall to be (this day) choſen chief Magiſtrate for this City.</p>
+            <p>
+               <hi>Sir,</hi> As your choyce, ſo your work is likely to be in a trou<g ref="char:EOLhyphen"/>bleſome time; you well know how divided, how broken, how ſhivered our publique condition is; and when the Ship is in bro<g ref="char:EOLhyphen"/>ken Seas, the danger is the greater, and the Pilot hath reaſon to be the more careful and circumſpect: Aſſuredly, your Piety, your Sincerity, your Fidelity, your Wiſdom, your Meekneſs, your Zeal, all the Abilities which you can poſſibly aſcend unto, will meet with occaſions ſufficient for their tryal and improvement.</p>
+            <p>But, Sir, though it be ſome part of your unhappineſs, to ap<g ref="char:EOLhyphen"/>pear upon the Stage in divided and diſtempered times, yet it will be the more for your honor, if you can with your ſingu<g ref="char:EOLhyphen"/>lar wiſdom, and expedient meekneſs, calm our ſeas, quench our fires, ſteal into joynt our broken bones, binde all of us up into an Unity and Love, who are ſtarted aſunder ſo much through our own frailties, and (I fear) the more through other mens ſubtilties. It was the work of Jeſus Chriſt to harmonize God and man, and it will be your praiſe as well as duty, to cloſe up Chriſtians and Brethren; But I ſhall ſpare further diſ<g ref="char:EOLhyphen"/>courſe for this. One reports of <hi>Hippocrates,</hi> That he gave an Oath unto his Schollars to look well to his children: An Oath is beyond me to impoſe on you, nevertheleſs, I would (with all humble and dutiful reſpect) commend (and that from God) unto your choyeſt care, two Children, and both of them be<g ref="char:EOLhyphen"/>long to God; the mentioning of their Relation, hath raiſed in you already both a Reverence and a Reſolution: But what are theſe two Children? Sir, As you have but two farthings to commend unto God <hi>(Bernard</hi> calls the one of them your Soul, and the other of them your Body) ſo God puts the care but of two of his Children unto you, to Nurſe them for one year; the one is Religion, and the other is Juſtice: If you be
+<pb n="25" facs="tcp:162270:15"/>
+pleaſed to look well to them, you may be confident that God will look well to you: Theſe are the two Legs upon which the Political Body ſtands, nay they are the two Pillars which hold up Heaven and Earth: Theſe are <hi>Solomons Jachin</hi> and <hi>Boaz;</hi> Theſe are (in their peculiar Services) that <hi>Moſes</hi> and <hi>Aaron</hi> who brought the people of <hi>Iſrael</hi> out of Bondage: God commends and chargeth the care of theſe two (Religion and Juſtice) upon you.</p>
+            <p>Some of the Jews (as I finde it in one whom I have peruſed) do relate concerning the ſix Steps by which <hi>Solomon</hi> aſcended unto his Throne, That upon every Step in his Aſcent, one cry<g ref="char:EOLhyphen"/>ed aloud unto him to Remember ſome ſpecial thing appertain<g ref="char:EOLhyphen"/>ing unto him in his Place: When he advanced his feet upon</p>
+            <list>
+               <item>1. The firſt Step He cryed <hi>[Lo titeh miſhpat] Judicium né inclinato,</hi> Wreſt not Judgement.</item>
+               <item>2. The ſecond Step He cryed <hi>[Lo tikir panim] perſonam né reſpicito,</hi> Accept no perſon in Judgement.</item>
+               <item>3. The third Step He cryed <hi>[Lo tikahh ſhohher] munus né recipito,</hi> Take no Bribes.</item>
+               <item>4. The fourth Step He cryed <hi>[Lo tittang lech aſherah] Nón plantabis lucum,</hi> Thou ſhalt not plant a Grove.</item>
+               <item>5. The fifth Step He cryed <hi>[Lo takim lech matzebah] Noli erigere ſtatuam,</hi> Set not up a Pillar.</item>
+               <item>6. The ſixth Step He cryed <hi>[Lo tikbahh ſhor] Né mactato Bovem,</hi> Kill not an Ox <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>i.)</hi> Sacrifice not to Idols.</item>
+            </list>
+            <p>The meaning of all this was, That <hi>Solomon</hi> (and ſo every Ruler) ought to have an exact care of Juſtice and Religion; the which if you ſhall faithfully perform, you ſhall reap the comforts of both in your own Conſcience, and ſee the fruits of both in the proſperity and ſafety of this great people commit<g ref="char:EOLhyphen"/>ted by God and man unto you.</p>
+            <p>
+               <pb n="26" facs="tcp:162270:16"/>
+There is one word more which I have to ſay, and it con<g ref="char:EOLhyphen"/>cerns <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>3</label> us all: Since Righteouſneſs doth ſo much conduce to pub<g ref="char:EOLhyphen"/>lique comfort, and Wickedneſs doth ſo much contribute to common miſery; Therefore let us all labor,</p>
+            <p n="1">1. <hi>To be Righteous:</hi> As <hi>Moſes</hi> wiſhed, <hi>That all the Lords people were Prophets;</hi> ſo do I wiſh, that all the people of this City were righteous, that the City may be called (as <hi>Iſaiah</hi> 
+               <note place="margin">Iſa. 1. 26.</note> ſpeaks) <hi>The City of Righteouſneſs,</hi> and then it ſhould have that Name which that City in <hi>Ezekiel</hi> had, the Name of the City <note place="margin">Ezek. 48. 33.</note> was, <hi>The Lord is there;</hi> and if the Lord be there, all bleſſing and comfort ſhall be there.</p>
+            <p n="2">2. <hi>To love, regard and countenanee Righteous Perſons:</hi> Your glory and ſtrength is in thoſe, as your reproach and miſe<g ref="char:EOLhyphen"/>ry is in the wicked: Is it not better to ſee a City like an Or<g ref="char:EOLhyphen"/>chard, ſet with excellent Trees and Plants, then to ſee it like a Wilderneſs, overrun with noyſom and hurtful Beaſts? <hi>The Righteous are the excellent on earth,</hi> ſo ſaid <hi>David</hi> the father; <hi>The Righteous is more excellent then his Neighbor,</hi> ſo ſaid <hi>So<g ref="char:EOLhyphen"/>lomon</hi> his ſon: All men are the better for Righteous men; the better for their Graces, for their Prayers, for their Services: <hi>Laban</hi> fared the better for Righteous <hi>Jacob,</hi> and <hi>Egypt</hi> the bet<g ref="char:EOLhyphen"/>ter for Righteous <hi>Joſeph:</hi> You may truly ſay of Righteous perſons, as he of the Prophet, <hi>The chariot of Iſrael, and the horſemen thereof.</hi>
+            </p>
+            <p n="3">3. <hi>To abound in all the fruits of Righteouſneſs,</hi> but eſpecially in Love and Unity, in Love and Peace amongſt your ſelves, which are the glory of Righteouſneſs, and your own common Safety and Preſervation: <hi>Jeruſalem</hi> (ſaith <hi>David) is builded as</hi> 
+               <note place="margin">Pſal. 122. 3</note> 
+               <hi>a City that is compact together;</hi> you of this City call your ſelves, Brethren, Brethren of ſuch and ſuch Companies; Now ſaith <hi>David, How good and how pleaſant is it for brethren to dwell to<g ref="char:EOLhyphen"/>gether</hi> 
+               <note place="margin">Pſal. 133. 1</note> 
+               <hi>in <g ref="char:V">Ʋ</g>nity:</hi> Some things are neither good nor pleaſant (as the Torments in Hell) ſome things are pleaſant, but not good, (as the Delights of Sin) ſome things are good, but not pleaſant, (as the mortifying of Sin) but Unity amongſt Bre<g ref="char:EOLhyphen"/>thren is both good and pleaſant.</p>
+            <p>
+               <hi>Solomon</hi> (in the <hi>Canticles)</hi> ſets out his ſtately Chariot with
+<pb n="27" facs="tcp:162270:16"/>
+much magnificence: <hi>The pillars thereof were made of ſilver, and the bottom thereof of gold, and the covering thereof it was of purple:</hi> But then he addes that which was the accent of <note place="margin">Cant. 3. 10.</note> all, <hi>The midst thereof was paved with Love:</hi> All our excellen<g ref="char:EOLhyphen"/>cies appear with a greater excellency by the flames of Love and Unity: Our Savior (who was <hi>Amor mundi &amp; deſiderium mun<g ref="char:EOLhyphen"/>di)</hi> tells us three things of this Love; one, That it was the ſum of the Law, <hi>Thou ſhalt love the Lord thy God,</hi> and, <hi>Thou ſhalt love thy neighbor.</hi> A ſecond, That it was the ſubſtance of the Goſpel, <hi>A new Commandment give I unto you, that ye love one another.</hi> A third, That it was the character of all his Righ<g ref="char:EOLhyphen"/>teous Servants and Diſciples, <hi>By this ſhall all men know that you are my Diſciples, if ye love one another.</hi>
+            </p>
+            <p>
+               <hi>John Gerſon</hi> (in an Oration of his to the King of <hi>France)</hi> aſſures us, That all the ſorts of mans life conſiſt in Love and Unity: There is our <hi>Vita perſonalis,</hi> and that conſiſts in the Unity of Soul and Body; There is our <hi>Vita Spiri<g ref="char:EOLhyphen"/>tualis,</hi> and that conſiſts in the Conjunction or Union of God with the Soul; And there is our <hi>Vita Civilis,</hi> and that conſiſts in the Unity of men one with another: Our Souls are ſaved by Love, and our Safeties are preſerved by Unity. I will but tell you a fancy which the ſame Author mentions, of a diſpute be<g ref="char:EOLhyphen"/>twixt <hi>Mars</hi> and <hi>Pallas,</hi> which of them ſhould have the honor to give the Name to the City of <hi>Athens,</hi> at length it was re<g ref="char:EOLhyphen"/>ſolved, That he ſhould give the Name, who could finde out that which might be of moſt good and benefit for that City; Hereupon <hi>Mars</hi> gives a ſtately Horſe, which ſignified Wars, Diviſions, Tumults; but <hi>Pallas</hi> gave an Olive-Branch, the em<g ref="char:EOLhyphen"/>blem of Peace, Love and Unity; the City of <hi>Athens</hi> preſently choſe <hi>Pallas</hi> to be their Guardian, rightly apprehending, That Love, Unity and Peace, conduced moſt to their Proſperity and Safety: you may with eaſe make the application to your ſelves.</p>
+            <p>And now what can I ſay more unto you? you have heard where joy doth lie and miſery, your comfort or your ſorrow, in Righteouſneſs or in Wickedneſs: If you chooſe to be Righ<g ref="char:EOLhyphen"/>teous, and to live Righteouſly, God will delight to be with you and bleſs you; And how will he bleſs you? <hi>He will bleſs</hi>
+               <pb n="28" facs="tcp:162270:17"/>
+you with Peace, <hi>which is the effect of Righteouſneſs,</hi> Iſa. 32. 17. He will bleſs you with Proſperity, <hi>which is the ſhower poured down upon the head of the Righteous,</hi> Prov. 10. 6. He will bleſs you with Safety, <hi>which is the wall of Salvation for the Righteous,</hi> Iſa. 26. 1, 2. He will at length bleſs you with that glorious, per<g ref="char:EOLhyphen"/>fect, everlaſting happineſs, which the Apoſtle calls, <hi>The Crown of Righteouſneſs,</hi> 2 Tim. 4. 8. Unto which the God of Righte<g ref="char:EOLhyphen"/>ouſneſs bring us all for his ſake, who is, <hi>The Lord our Righteouſ<g ref="char:EOLhyphen"/>neſs.</hi> Jer. 23. 6.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
